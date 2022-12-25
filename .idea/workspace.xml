@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a7b370a-dc9a-4de0-9d47-ae46fc4d0d8a" name="Changes" comment="hw8">
-      <change afterPath="$PROJECT_DIR$/homework_10/details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_10/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_10/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProj/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProj/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProj/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProj/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProj/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProj/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProj/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
@@ -38,6 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
@@ -60,7 +66,18 @@
       <workItem from="1670876242696" duration="1207000" />
       <workItem from="1670878157050" duration="986000" />
       <workItem from="1670923459923" duration="51000" />
-      <workItem from="1671211334632" duration="4832000" />
+      <workItem from="1671211334632" duration="5023000" />
+      <workItem from="1671382570987" duration="5051000" />
+      <workItem from="1671560997407" duration="3586000" />
+      <workItem from="1671733983253" duration="30000" />
+      <workItem from="1671824201431" duration="603000" />
+      <workItem from="1671905599912" duration="4245000" />
+      <workItem from="1671965331748" duration="5789000" />
+      <workItem from="1671972563870" duration="2000" />
+      <workItem from="1671975395796" duration="2387000" />
+      <workItem from="1671988814057" duration="1331000" />
+      <workItem from="1671994946607" duration="129000" />
+      <workItem from="1672001713614" duration="2507000" />
     </task>
     <task id="LOCAL-00001" summary="hw3">
       <created>1668285509038</created>
@@ -90,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670878768952</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hw8">
+      <created>1671217273658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671217273658</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
